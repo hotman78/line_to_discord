@@ -1,0 +1,16 @@
+{
+  "name": "line-to-discord",
+  "description": "",
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "linebot.js",
+  "scripts": {
+    "start": "node linebot.js"
+  },
+  "dependencies": {
+    "express": ""
+    "discord.js": ""
+    "express": ""
+    "axios": ""
+  }
+}
