@@ -8,9 +8,9 @@
     "start": "node /linebot.js"
   },
   "dependencies": {
-    "express": ""
-    "discord.js": ""
-    "express": ""
+    "express": "",
+    "discord.js": "",
+    "express": "",
     "axios": ""
   }
 }
