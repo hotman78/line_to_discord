@@ -10,6 +10,7 @@
     "dicord": "node discordbot.js"
   },
   "dependencies": {
+    "@line/bot-sdk": "",
     "express": "",
     "discord.js": "",
     "axios": ""
