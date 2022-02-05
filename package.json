@@ -5,7 +5,8 @@
   "version": "1.0.0",
   "main": "/linebot.js",
   "scripts": {
-    "start": "node /linebot.js"
+    "line": "node linebot.js",
+    "dicord": "node discordbot.js",
   },
   "dependencies": {
     "express": "",
