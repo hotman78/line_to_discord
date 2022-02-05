@@ -12,7 +12,7 @@
   "dependencies": {
     "@line/bot-sdk": "",
     "express": "",
-    "discord.js": "^13.0",
+    "discord.js": "12.5.3",
     "axios": ""
   }
 }
