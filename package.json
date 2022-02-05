@@ -3,9 +3,9 @@
   "description": "",
   "license": "MIT",
   "version": "1.0.0",
-  "main": "linebot.js",
+  "main": "/linebot.js",
   "scripts": {
-    "start": "node linebot.js"
+    "start": "node /linebot.js"
   },
   "dependencies": {
     "express": ""
