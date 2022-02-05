@@ -3,8 +3,9 @@
   "description": "",
   "license": "MIT",
   "version": "1.0.0",
-  "main": "/linebot.js",
+  "main": "linebot.js",
   "scripts": {
+    "start": "node linebot.js && node discordbot.js",
     "line": "node linebot.js",
     "dicord": "node discordbot.js"
   },
