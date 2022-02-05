@@ -6,7 +6,7 @@
   "main": "/linebot.js",
   "scripts": {
     "line": "node linebot.js",
-    "dicord": "node discordbot.js",
+    "dicord": "node discordbot.js"
   },
   "dependencies": {
     "express": "",
